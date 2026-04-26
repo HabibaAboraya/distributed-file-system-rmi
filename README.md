@@ -100,7 +100,7 @@ All nodes process these operations in the **same order**, ensuring consistency.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Compile the project:
 
